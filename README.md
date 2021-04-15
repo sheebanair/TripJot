@@ -33,24 +33,24 @@ TripJot is a passion project - a microservice android app built so that users ca
 Splash Screen:
 <br />
 
-<img src="./flutter_trip_jot/assets/launchscreen.gif">
+<img src="./flutter_trip_jot/assets/launchscreen.gif" width="150">
 
 Login and Register:
 <br />
-<img src="./flutter_trip_jot/assets/login.gif">
+<img src="./flutter_trip_jot/assets/login.gif" width="150">
 
 Add Title and Photo:
 <br />
-<img src="./flutter_trip_jot/assets/titleAndPhoto.gif">
+<img src="./flutter_trip_jot/assets/titleAndPhoto.gif" width="150">
 
 Add Date and Description:
 <br />
-<img src="./flutter_trip_jot/assets/dateAndDescription.gif">
+<img src="./flutter_trip_jot/assets/dateAndDescription.gif" width="150">
 
 Add Location and Save Note:
 <br />
-<img src="./flutter_trip_jot/assets/locationandsave.gif">
+<img src="./flutter_trip_jot/assets/locationandsave.gif" width="150">
 
 View Previous Notes and Delete Notes:
 <br />
-<img src="./flutter_trip_jot/assets/viewanddelete.gif">
+<img src="./flutter_trip_jot/assets/viewanddelete.gif" width="150">
