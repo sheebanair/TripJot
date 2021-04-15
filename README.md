@@ -16,4 +16,4 @@ TripJot is a passion project - a microservice android app built so that users ca
   <li> As a user, I should be able to view all my previously saved notes in a chronological format</li>
   <li> As a user, I should be able to view the details of a previosuly saved note and have a map view linked as well</li>
   <li> As a user, I should be able to delete notes with a swipe</li>
-< /ul>
+</ul>
