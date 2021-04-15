@@ -19,7 +19,7 @@ TripJot is a passion project - a microservice android app built so that users ca
 
 # User Stories
 
-<ul> 
+<ul>
   <li> As a user, I should be able to see a splash screen, every time I open the app</li>
   <li> As a user, I should be able to login or create a new account</li>
   <li> As a user, I should be able to add photos and description to a new note. I should also be able to add a title and choose a particular day to associate the memory with</li>
@@ -33,20 +33,24 @@ TripJot is a passion project - a microservice android app built so that users ca
 Splash Screen:
 <br />
 
-<img src="">
+<img src="./flutter_trip_jot/assets/launchscreen.gif">
 
 Login and Register:
 <br />
-<img src="">
+<img src="./flutter_trip_jot/assets/login.gif">
 
-Itinerary and Calendar:
+Add Title and Photo:
 <br />
-<img src="">
+<img src="./flutter_trip_jot/assets/titleAndPhoto.gif">
 
-Map Directions:
+Add Date and Description:
 <br />
-<img src="">
+<img src="./flutter_trip_jot/assets/dateAndDescription.gif">
 
-Map Search:
+Add Location and Save Note:
 <br />
-<img src="">
+<img src="./flutter_trip_jot/assets/locationandsave.gif">
+
+View Previous Notes and Delete Notes:
+<br />
+<img src="./flutter_trip_jot/assets/viewanddelete.gif">
